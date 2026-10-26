@@ -25,12 +25,15 @@ One internal platform that runs a marketing agency's client work, from the first
 
 Company-owned, so the code isn't public. Happy to demo it live.
 
+An open-source build of the same kind of system is in [agency-ops](https://github.com/colbysmithcode/agency-ops).
+
 ---
 
 ### Projects
 
 | Project | What it is |
 |---|---|
+| [agency-ops](https://github.com/colbysmithcode/agency-ops) | Client-operations platform for a small agency: pipeline, proposals and contracts, Stripe billing, onboarding, and automated monthly reports with an AI summary held in a human approval queue. Cloudflare Workers and D1, 114 automated tests. |
 | [main-street-ai](https://github.com/colbysmithcode/main-street-ai) | Free AI writing tools for small businesses and nonprofits: grant letters, donor letters, volunteer messages, and impact reports. Cloudflare Workers and the Claude API. |
 | [community-digital-health-check](https://github.com/colbysmithcode/community-digital-health-check) | A free digital presence audit for nonprofits and small businesses. Enter a name and city, get a graded action plan. |
 | [dynasty-engine](https://github.com/colbysmithcode/dynasty-engine) | Dynasty fantasy football analytics: play-by-play scoring, aging and survival models, and a Monte Carlo trade engine that reports real uncertainty. Python and DuckDB. |
