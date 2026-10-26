@@ -1,6 +1,6 @@
 ## Hey, I'm Colby
 
-I'm a Keene State '25 business grad. I build AI automation and marketing tech using AI coding tools, mostly for small teams: client operations, CRMs, reporting, and the glue between the tools a business already pays for.
+I'm a Keene State '25 business grad. I build AI automation and marketing tech, mostly for small teams: client operations, CRMs, reporting, and the glue between the tools a business already pays for.
 
 **Contact:** [colbysmith522@gmail.com](mailto:colbysmith522@gmail.com)
 
